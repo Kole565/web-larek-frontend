@@ -94,7 +94,7 @@ yarn build
 
 ## Авторство и лицензия
 
-Автор: Степанов Николай rjkz565rjkz565@gmail.com
-Материалы получены от Yandex Practicum
+Автор: Степанов Николай rjkz565rjkz565@gmail.com  
+Материалы получены от Yandex Practicum  
 
 Лицензия: MIT License
